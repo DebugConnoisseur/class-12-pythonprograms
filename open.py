@@ -1,0 +1,5 @@
+f=open(r"C:\Users\aryan\Desktop\cs.txt","r")
+print(f.read(2))
+print(f.tell())
+print(f.read(3))
+print(f.tell())
